@@ -19,7 +19,7 @@ The founder, the people lead or the head of operations runs it after a staff sur
 ## What they supply
 
 - **The stated values,** with the description the company uses for each, and any behaviours already written down.
-- **The staff survey export,** counts by team and question, with the question wording, and last time's results if there are any.
+- **The staff survey export,** counts by team and question, with the question wording, from your survey tool, and last time's results if there are any.
 - **Exit notes,** one per leaver, ideally with names already taken out.
 - **Notes on recent decisions** that changed how people work: who proposed, who was asked, who decided and how it was told.
 - **What people were recognised for,** as counts by theme.
