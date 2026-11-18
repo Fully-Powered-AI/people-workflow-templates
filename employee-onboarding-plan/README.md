@@ -46,15 +46,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 Set the standard first: the check-in rhythm, the age limit for training material, the training every start completes and how productive is written for your roles. Training material usually covers the routine case; capture the exceptions experienced colleagues handle with [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/).
 
-Map the handoffs to IT, facilities and the buddy so every confirmation has an owner. Prove it on one real start, then roll it out. Fully Powered works across ChatGPT, Claude, Copilot and Gemini, at your pace, and your company keeps control of how the work gets done.
+Map the handoffs to IT, facilities and the buddy so every confirmation has an owner. Prove it on one real start, then roll it out. FullyPowered works across ChatGPT, Claude, Copilot and Gemini, at your pace, and your company keeps control of how the work gets done.
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on your roles and training material against cases written in advance, such as a responsibility with no training or an unconfirmed start date. The hiring manager and the people lead judge each draft against the expected behavior. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on your roles and training material
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

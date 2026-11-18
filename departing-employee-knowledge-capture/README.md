@@ -44,15 +44,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## What has to change for your company
 
-Set your session length, how many areas a conversation covers, and when the conversations and the check must finish. Add the questions your best managers already ask, and keep the one on ideas tried and dropped. Decide whether conversations may be recorded, where notes and the approved document are kept, and who may read them. Access, equipment and the hand-over of each piece of work run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/). When one procedure turns out to be mostly exceptions, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) writes them down properly, and when a whole team's know-how needs capturing, that is the work of [Fully Powered Studio](https://fullypowered.ai/fully-powered-studio/). It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your systems.
+Set your session length, how many areas a conversation covers, and when the conversations and the check must finish. Add the questions your best managers already ask, and keep the one on ideas tried and dropped. Decide whether conversations may be recorded, where notes and the approved document are kept, and who may read them. Access, equipment and the hand-over of each piece of work run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/). When one procedure turns out to be mostly exceptions, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) writes them down properly, and when a whole team's know-how needs capturing, that is the work of [FullyPowered Studio](https://fullypowered.ai/fully-powered-studio/). It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your systems.
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past departure your manager remembers well, plus hard cases written in advance, each with its expected behavior: a blank where "others who know it" should be, a list with a renamed column, steps kept only in someone's own mailbox, a colleague who does the work differently. The manager checks every point against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 9 November 2026.
 - Package format checked by script on every release.
@@ -83,4 +83,4 @@ Testing in your environment means running it on a past departure your manager re
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

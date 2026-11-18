@@ -295,4 +295,4 @@ password, login code or bank details found in the inputs.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 12 November 2026 in two runs; the record of the second is published with the template and was not independent of the first. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 12 November 2026 in two runs; the record of the second is published with the template and was not independent of the first. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

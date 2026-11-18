@@ -1,6 +1,6 @@
 # Manager feedback preparation
 
-Workflow template 0.1.0 · People and HR · Fully Powered AI
+Workflow template 0.1.0 · People and HR · FullyPowered AI
 
 ## Purpose
 
@@ -176,4 +176,4 @@ Paste the output format above beneath these instructions when you set them up.
 
 ## Version notes
 
-0.1.0 · 9 November 2026 · Written by Fully Powered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 9 November 2026 · Written by FullyPowered AI. Editorially reviewed. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

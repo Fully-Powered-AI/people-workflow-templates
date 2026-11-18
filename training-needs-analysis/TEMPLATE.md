@@ -300,4 +300,4 @@ every figure before you return the draft.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by Fully Powered AI. Editorially reviewed. Tried on its invented example in Claude on 9 and 10 November 2026 in three runs: the template was revised after the first, and again after an independent review of the second, and the third is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 9 and 10 November 2026 in three runs: the template was revised after the first, and again after an independent review of the second, and the third is the run recorded. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
