@@ -4,6 +4,8 @@ Each quarter or half-year, your HR lead sees what leavers said on the way out: t
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/exit-interview-themes-summary/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/exit-interview-themes-summary/?from=gh-people-exit-interview-themes-summary)
+
 ## The outcome
 
 Leadership hears what leavers actually said, in one place, without anyone being exposed. Every exit interview note and leaver form from the period is read and grouped into themes from a fixed list, such as workload and hours, career growth or pay. Each theme is counted by leaver, so someone who makes the same point three times still counts once, and each shows how many leavers raised it, for how many it was the main reason, and how many had it recorded as their reason when they resigned.

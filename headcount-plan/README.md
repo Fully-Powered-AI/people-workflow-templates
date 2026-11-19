@@ -4,6 +4,8 @@ For a founder, people lead or finance lead preparing next year: every role and i
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/headcount-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/headcount-plan/?from=gh-people-headcount-plan)
+
 ## The outcome
 
 Next year's people cost goes onto a few pages the board can read. The approver sees every role the company has today and what each team costs, then every change planned for the year: each new role, each backfill and each departure already confirmed, with the month it lands and what it adds or saves.

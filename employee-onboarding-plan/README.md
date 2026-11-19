@@ -4,6 +4,8 @@ Every new colleague starts with a first week and a first 90 days planned to the 
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-onboarding-plan/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/employee-onboarding-plan/?from=gh-people-employee-onboarding-plan)
+
 ## The outcome
 
 A new colleague arrives on Monday and the plan is already there: the first week day by day, and a clear picture of productive at day 30, 60 and 90, written as work the colleague will be doing.

@@ -4,6 +4,8 @@ Staff questions about leave, hours, expenses and conduct get answers that quote 
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/?from=gh-policy-answers-from-the-handbook)
+
 ## The outcome
 
 Every policy question gets the same careful answer, whoever is on the desk that day. The reply quotes the handbook's own words with the section beside them, says who the rule covers, and says just as plainly what the handbook does not cover. Nobody is told a rule from memory, and nobody is told a rule that was written for a different group of staff.

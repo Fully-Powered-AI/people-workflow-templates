@@ -4,6 +4,8 @@ One decided change, announced well: managers briefed first, a message for each g
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/internal-change-announcement/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/internal-change-announcement/?from=gh-people-internal-change-announcement)
+
 ## The outcome
 
 People hear about a change in the right order, from the right person, and in words that match how much it affects them. Managers know before their teams do and have something to say when they are asked. The group whose daily work changes most hears first, in a meeting where people can ask questions; if no such meeting is planned, the pack says so before anything goes out.

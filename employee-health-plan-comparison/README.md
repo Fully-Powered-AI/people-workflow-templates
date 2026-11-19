@@ -4,6 +4,8 @@ For an owner or people lead at renewal: the broker's health plan options next to
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-health-plan-comparison/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/employee-health-plan-comparison/?from=gh-employee-health-plan-comparison)
+
 ## The outcome
 
 The renewal decision goes onto a few pages the owner can read in one sitting. Every plan the broker put forward sits next to the others: who insures it, what kind of plan it is, the network, the deductibles, the out-of-pocket limits, the visit and drug charges, and what happens outside the network.

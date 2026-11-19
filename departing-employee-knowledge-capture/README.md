@@ -4,6 +4,8 @@ When someone is leaving or changing role, their manager gets an interview guide 
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?from=gh-departing-employee-knowledge-capture)
+
 ## The outcome
 
 Years of know-how stay with the company when the person who built them moves on. Before the conversations, the manager holds a guide: the areas of know-how in priority order, starting with what nobody else holds, the sessions to book, who sits in, and the questions that draw out what is written nowhere. After them, the successor gets one document: what to know in each area, when it matters, the exceptions, the early warning signs, what the person settled alone and what they passed up, who else can help and where it is written down.

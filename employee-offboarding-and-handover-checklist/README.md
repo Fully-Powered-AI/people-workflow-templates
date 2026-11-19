@@ -4,6 +4,8 @@ When someone leaves, your HR lead and their manager share one checklist: every p
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?from=gh-employee-offboarding-and-handover-che)
+
 ## The outcome
 
 The day a departure is confirmed, the HR lead and the manager hold the whole leaving on one page. Each piece of the person's work has a receiver and a date before the last day. Each system they can reach has an owner who removes it, a time, and a step to move any company data first. Each laptop, phone and pass has a way back.

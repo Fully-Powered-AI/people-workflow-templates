@@ -4,6 +4,8 @@ A founder or people lead sees whether the company's stated values show up in dai
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/culture-health-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/culture-health-check/?from=gh-people-culture-health-check)
+
 ## The outcome
 
 Leadership stops guessing whether the values on the website still describe the company. Each value becomes two or three things a new starter could actually notice in an ordinary week, and each of those is set against what the company already knows: the staff survey, what leavers said on the way out, how the last few big decisions were really made, and what people get thanked for. Every behaviour gets a plain reading (matches, mixed, drifts, or not enough evidence) with the numbered evidence behind it, so nobody has to take the verdict on trust.

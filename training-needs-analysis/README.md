@@ -4,6 +4,8 @@ For one team, the HR lead or team manager gets what each role must be able to do
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/training-needs-analysis/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/training-needs-analysis/?from=gh-people-training-needs-analysis)
+
 ## The outcome
 
 Training money goes where the team actually needs it. For every role in the team, the HR lead sees each ability the work depends on, the level it takes, how many people are there today and how many are still needed. The shortfalls come in a clear order: anything a rule or a customer requires first, then what the team cannot work without, then the rest.

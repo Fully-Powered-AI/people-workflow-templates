@@ -4,6 +4,8 @@ For one named site, the site, facilities or people lead gets an induction built 
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/site-safety-induction-pack/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/site-safety-induction-pack/?from=gh-people-site-safety-induction-pack)
+
 ## The outcome
 
 Every new starter and every visiting contractor hears about your site, not a site in general. They learn the sound of your alarms, the name of your assembly point, the walkways your forklifts give way at and the door release inside your cold room, each line traced to the plan, the rules or the risk assessment it came from. Where your documents leave something out, the pack says so plainly instead of papering over it with stock wording.

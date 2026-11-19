@@ -4,6 +4,8 @@ Every manager walks into a feedback conversation prepared like your best one: sp
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/manager-feedback-preparation/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/manager-feedback-preparation/?from=gh-people-manager-feedback-preparation)
+
 ## The outcome
 
 Your best manager gives feedback people can use. They bring what they saw and when, keep it apart from what they think it means, ask before they conclude, and leave with a clear ask and the support to meet it. This workflow template gives every manager that preparation, from a new shift lead to a department head. That is how you 10X what your people function can do.
