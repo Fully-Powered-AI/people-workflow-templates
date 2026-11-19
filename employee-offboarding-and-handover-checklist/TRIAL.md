@@ -1,10 +1,10 @@
-# Trial: Employee offboarding and handover checklist, run on its invented example
+# Trial: Employee offboarding and handover checklist, run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (the departure record, access register, equipment list, handover list, offboarding standard and notes). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The model read only the inputs first, produced the full checklist, and only then read the example's output and compared.
+The inputs are the example in `public/example.md` (the departure record, access register, equipment list, handover list, offboarding standard and notes). No client data was used. The run followed the instruction block and the output format in `member/template.md`. The model read only the inputs first, produced the full checklist, and only then read the example's output and compared.
 
 The model did not write this template.
 
@@ -108,7 +108,7 @@ Where the instructions left room to guess:
 9. The H4 item is "open, until close-out", which gives no due date. The format has a slot for "due [date]" and this run wrote the words as given.
 10. The Team line says "told by [role]" while the notes name the departing person; this run used the departing person's role.
 
-Limits of this record: it is one run by one model, on one invented example. It is not a test in a client environment and not a test in other AI products.
+Limits of this record: it is one run by one model, on one example. It is not a test in a client environment and not a test in other AI products.
 
 ## Changed after this run, and not run again
 

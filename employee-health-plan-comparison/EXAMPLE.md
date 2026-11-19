@@ -1,13 +1,13 @@
-# Employee health plan comparison: an invented example
+# Employee health plan comparison: an example
 
-*Illustrative example with invented data.* The company, the broker, the insurers, the plans, the people, the premiums and the dates below are all invented. Company A is an invented 38-person design and fit-out firm whose health plan renews on 1 January 2027. Its broker, called Broker D here, has sent the renewal terms for the current plan and quotes for two others from invented insurers called Insurer X and Insurer Y. The office and people manager prepares the comparison for the owner. First come the inputs the office and people manager supplied, in full, then the comparison the workflow template returned.
+*Illustrative example with sample data.* The company, the broker, the insurers, the plans, the people, the premiums and the dates below are all illustrative. Company A is an illustrative 38-person design and fit-out firm whose health plan renews on 1 January 2027. Its broker, called Broker D here, has sent the renewal terms for the current plan and quotes for two others from illustrative insurers called Insurer X and Insurer Y. The office and people manager prepares the comparison for the owner. First come the inputs the office and people manager supplied, in full, then the comparison the workflow template returned.
 
 ## The inputs
 
 ### 1. Scope brief
 
 ```
-Company: Company A, an invented 38-person design and fit-out firm
+Company: Company A, an illustrative 38-person design and fit-out firm
 First day of the plan year: 1 January 2027
 Decision due: 1 December 2026
 Currency: US dollars

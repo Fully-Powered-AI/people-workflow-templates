@@ -231,4 +231,4 @@ or sympathy.
 
 ## Version notes
 
-- 0.1.0, 9 November 2026. Written by FullyPowered AI, drawing on a published policy lookup method credited in the sources. Editorially reviewed. Tried on its invented example in Claude on 9 November 2026; the record of that run is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 9 November 2026. Written by FullyPowered AI, drawing on a published policy lookup method credited in the sources. Editorially reviewed. Tried on its example in Claude on 9 November 2026; the record of that run is published with the template and lists the edits made afterward, which have not been run again. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

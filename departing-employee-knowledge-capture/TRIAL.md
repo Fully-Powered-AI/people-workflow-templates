@@ -1,10 +1,10 @@
-# Departing-employee knowledge capture: trial on the invented example
+# Departing-employee knowledge capture: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs are the invented example in `public/example.md` (a made-up specialty food distributor, an invented purchasing lead and invented notes). No client data was used. The run was one attempt, by an assistant that did not write the template, following the instruction block in `member/template.md` and the output format as written.
+The inputs are the example in `public/example.md` (a made-up specialty food distributor, an illustrative purchasing lead and sample notes). No client data was used. The run was one attempt, by an assistant that did not write the template, following the instruction block in `member/template.md` and the output format as written.
 
 ## Inputs used
 
@@ -225,13 +225,13 @@ Draft. Not yet checked by the departing purchasing lead or approved by the Opera
 - It is long. The instruction block is shorter than the procedure above it, but a person pasting only the block would lose the exact wording of some rules (for example how "Others who know it" is read when a person's own words answer the field), so the two have to be kept in step.
 - The "how sure" and "held by nobody else" rules depend on a judgement (ambiguities 1 and 2) that two careful readers resolved differently.
 - The acceptance tests in the template have not been run by this trial. This trial covered one complete path through both stages and so exercised tests 3, 4, 6, 7, 8 and 9 in practice (all behaved as the test expects); it did not exercise tests 1, 2, 5, 10 or 11.
-- The version notes in `member/template.md` still say the template has not been tried on its invented example in a named AI product. That line was left alone, as the task allowed changes only to the trial record and the evidence field.
+- The version notes in `member/template.md` still say the template has not been tried on its example in a named AI product. That line was left alone, as the task allowed changes only to the trial record and the evidence field.
 
 ## Changes made after this run
 
 The template, the published example and the public profile were revised on 9 November 2026, after this run and after an independent review, to settle what the run found. These edits have not been run again. The output and the observations above are as recorded; where they compare this run with the published example, they describe the example as it stood at the time of the run. None of the edits changes an area, a priority band, a date, a flag, a decision, a commitment, the left-out line or the number of questions to settle on the example. Each edit is listed with whether the output recorded above fits it.
 
-- **Evidence lines.** The public profile and the template's version notes now say the template was tried on its invented example in Claude on 9 November 2026, which settles the last shortcoming above.
+- **Evidence lines.** The public profile and the template's version notes now say the template was tried on its example in Claude on 9 November 2026, which settles the last shortcoming above.
 - **Who counts as someone else (ambiguities 1 and 2).** Procedure step 12 and pasted step 9 now say the successor counts for whatever the notes say they know, and a colleague the notes say sees only a result of the work, such as the invoices, does not: the field reads "nobody else named", then that colleague with the limit, and the area goes on the "Held by nobody else" line. This settles both as this run chose, so the run's A1, A2 and header line fit. The example now matches: its header line names A2, A3 and A5, its A2 "How sure" reads "Their account; nobody else named", and the Finance manager follows "nobody else named" with the limit.
 - **The "Document" question kind (ambiguity 3).** The pasted instructions now name the two document-wide kinds, check date to set and successor not named, as procedure step 15 already did. The run raised none, which fits.
 - **Documents named (ambiguity 4).** The From line's documents named are now every document, file, folder or register the guide or the notes name as holding part of the work, a personal place included, and not a form the work is only noted on, such as a delivery note. The run does not fit: under the revised rule its From line would also list the email folder "Italy freight", as the example does.

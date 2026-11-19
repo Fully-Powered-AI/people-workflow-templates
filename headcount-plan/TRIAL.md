@@ -1,10 +1,10 @@
-# Headcount plan: a trial on the invented example
+# Headcount plan: a trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs for this trial are the invented example in `public/example.md` (Company A, a made-up 16-person software company). No client data was used. The assistant that ran it did not write the template. It read the template's instruction block and output format, took only the five inputs from the example (scope brief, current roles list, changes list, notes, settings), produced the plan, and only then compared it with the example's output and the reviewer checklist.
+The inputs for this trial are the example in `public/example.md` (Company A, a made-up 16-person software company). No client data was used. The assistant that ran it did not write the template. It read the template's instruction block and output format, took only the five inputs from the example (scope brief, current roles list, changes list, notes, settings), produced the plan, and only then compared it with the example's output and the reviewer checklist.
 
 One thing to know about how it was run: the arithmetic was done with a small throwaway script written for the trial, not by hand. The script followed the template's cost formula, and the plan below was written from its results. A chat assistant without code tools would do the same sums in its head, which is a larger risk of slips than this trial shows.
 

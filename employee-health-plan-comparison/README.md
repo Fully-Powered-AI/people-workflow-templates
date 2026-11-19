@@ -8,7 +8,7 @@ The broker's health plan options side by side, with company and employee cost at
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-health-plan-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-health-plan-comparison&from=gh-employee-health-plan-comparison)*
@@ -39,7 +39,7 @@ The people lead, office manager or finance lead starts it as soon as the broker 
 
 One comparison, in a fixed order. A summary of what each option costs the company and the lowest-cost option at each use level, stated as facts. The plans' designs next to each other. Premiums and shares by tier. The company's cost for the year against this year and the budget. The typical employee's cost at each use level. What the renewal changes. Then the questions for the broker, the points for the owner, the assumptions behind every figure, and anything else in the notes. Names and health details in the notes are left out, and the comparison says what kind was removed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -59,7 +59,7 @@ Agree the three spending levels with your broker and keep them the same each yea
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example in Claude on 10 November 2026, in two runs, not as a blind test; the record of the second, made by the session that revised it, is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its example in Claude on 10 November 2026, in two runs, not as a blind test; the record of the second, made by the session that revised it, is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on last year's renewal, which your people lead and broker already know, plus hard cases written in advance, each with its expected behavior: a blank out-of-pocket limit, a renamed column, a renewal above your threshold, a note that names an employee's treatment, a request to say which plan an employee should choose. Your people lead checks every figure against the broker's documents before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-health-plan-comparison&from=gh-employee-health-plan-comparison) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-health-plan-comparison&from=gh-employee-health-plan-comparison) describes the record we keep.
 
@@ -67,13 +67,13 @@ Testing in your environment means running it on last year's renewal, which your 
 - Sources and rights reviewed.
 - Editorially reviewed on 10 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 10 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

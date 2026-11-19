@@ -1,6 +1,6 @@
-# Exit interview themes summary: an invented example
+# Exit interview themes summary: an example
 
-*Illustrative example with invented data.* The company, the teams, the leavers, their words and the dates below are all invented. The company is an invented 120-person software company with Customer Support, Engineering, Product, Sales and Finance teams. Its HR lead runs the summary for the third quarter of 2026. First come the inputs the HR lead supplied (last period's summary as the extract that was supplied, which is all the summary uses), then the summary the workflow template returned.
+*Illustrative example with sample data.* The company, the teams, the leavers, their words and the dates below are all illustrative. The company is an illustrative 120-person software company with Customer Support, Engineering, Product, Sales and Finance teams. Its HR lead runs the summary for the third quarter of 2026. First come the inputs the HR lead supplied (last period's summary as the extract that was supplied, which is all the summary uses), then the summary the workflow template returned.
 
 ## The inputs
 

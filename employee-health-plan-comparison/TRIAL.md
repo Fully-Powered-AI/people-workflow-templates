@@ -1,10 +1,10 @@
-# Employee health plan comparison: tried on its invented example
+# Employee health plan comparison: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs were the invented example in [example.md](example.md): Company A, Broker D, Insurer X and Insurer Y, and the invented people and figures in it. No client data was used. The run followed the instructions block and the output format in the member template (version 0.1.0, as revised on 10 November 2026 after an earlier run and a review; see "The earlier run" below). The arithmetic was checked with a short script that was run for this trial, not worked by eye.
+The inputs were the example in [example.md](example.md): Company A, Broker D, Insurer X and Insurer Y, and the sample people and figures in it. No client data was used. The run followed the instructions block and the output format in the member template (version 0.1.0, as revised on 10 November 2026 after an earlier run and a review; see "The earlier run" below). The arithmetic was checked with a short script that was run for this trial, not worked by eye.
 
 This run is not independent of the template. The same session that made the revisions then ran it, and had already read the example's published output and the earlier run's record. It shows that the revised instructions can be followed to the output below; it is not a blind test.
 
@@ -126,4 +126,4 @@ After an independent review, three small edits were made that have not been run 
 
 ## What this does and does not show
 
-One run of one product on one invented example, by the session that revised the template. It shows the instructions can be followed to a complete, checkable output. It does not show how the template behaves with real broker documents, with other products, or on the cases listed above as not exercised.
+One run of one product on one example, by the session that revised the template. It shows the instructions can be followed to a complete, checkable output. It does not show how the template behaves with real broker documents, with other products, or on the cases listed above as not exercised.

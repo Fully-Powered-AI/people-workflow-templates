@@ -1,10 +1,10 @@
-# Policy answers from the handbook: trial on the invented example
+# Policy answers from the handbook: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-09
 
-The inputs were the invented example in [example.md](example.md): its company settings, handbook, policy memo and six-question export. No client data was used. The run was made by a model that did not write the template. It read the complete template and only the inputs of the example, followed the instruction block and output format exactly, and read the example's own output only afterwards.
+The inputs were the example in [example.md](example.md): its company settings, handbook, policy memo and six-question export. No client data was used. The run was made by a model that did not write the template. It read the complete template and only the inputs of the example, followed the instruction block and output format exactly, and read the example's own output only afterwards.
 
 ## What came out
 
@@ -48,6 +48,6 @@ The template and the published example were revised on 9 November 2026, after th
 - **Two nearest passages and a document that names no group (observations 7 and 8).** The output format now allows two or more nearest passages, each with its section, in the same line, and gives "[document] names no group." for a document with no section on who it covers. This run's choices fit both.
 - **Smaller corrections to the published example.** The memo is listed as issued 1 September 2026 and effective 1 October 2026; Q4's headings checked no longer include section 3 (Annual leave); Q5's include section 1, which its "Applies to" line cites.
 - **Second round, 9 November 2026, after the independent review's minor points.** The pasted instructions now carry the input rules already in the Inputs section: a handbook supplied in part counts as silent only in the sections supplied, and a missing date, group, location or received date takes the "not stated" wording in the output format. The procedure now says outright that a same-day topic is marked REFER TO HR, and acceptance test 6 now expects the reply to lead with the other route. In the published example, the Q1 reply now states the two-week reading as a reading, and the Q6 reply leads with the HR manager and says the handbook also names the manager as a route. None of this was run again; the example's inputs carry no partial handbook and no missing date, group or location, so the output recorded above is unaffected by the instruction change.
-- **Version notes and the public profile** now say the template was tried on its invented example in Claude on 9 November 2026, with this record.
+- **Version notes and the public profile** now say the template was tried on its example in Claude on 9 November 2026, with this record.
 
-**What this does not show.** It was one run, by one model, on an invented example. It was not tested in a client environment or in other products, and it says nothing about how the template behaves on a real handbook.
+**What this does not show.** It was one run, by one model, on an example. It was not tested in a client environment or in other products, and it says nothing about how the template behaves on a real handbook.

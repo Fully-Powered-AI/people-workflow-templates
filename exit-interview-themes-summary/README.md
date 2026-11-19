@@ -8,7 +8,7 @@ What leavers said, grouped into themes with counts and anonymous quotes, set bes
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/exit-interview-themes-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary)*
@@ -41,7 +41,7 @@ One summary in a fixed order: coverage, showing who left, who had an exit conver
 
 A short note for the HR lead only comes last, to remove before sharing. It lists any matter raised in a note that belongs to HR's own process, such as a report of abuse or a complaint about conduct, by leaver reference and kind; the topics raised by a single leaver; and every quote withheld or changed, with the reason.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -60,7 +60,7 @@ Set the smallest group you will show; five is a careful floor, and a company whe
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026 in two runs; the record of the second, made on the instructions as revised after the first and repeated once more after a review, is published with it. The second run was not independent of the first: the same session made the edits and ran it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its example in Claude on 12 November 2026 in two runs; the record of the second, made on the instructions as revised after the first and repeated once more after a review, is published with it. The second run was not independent of the first: the same session made the edits and ran it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your environment means running it on a past period your HR lead already knows, with hard cases written in advance: a team with two leavers, a quote that names a manager, a note that reports a complaint about conduct, a request to say who said something. The HR lead checks every count against the notes and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary) describes the record we keep.
 
@@ -68,13 +68,13 @@ Testing in your environment means running it on a past period your HR lead alrea
 - Sources and rights reviewed.
 - Editorially reviewed on 12 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 12 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

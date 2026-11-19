@@ -1,6 +1,6 @@
-# Manager feedback preparation: an invented example
+# Manager feedback preparation: an example
 
-*Illustrative example with invented data.* An invented 120-person freight and warehousing company.
+*Illustrative example with sample data.* An illustrative 120-person freight and warehousing company.
 
 **Feedback preparation · Warehouse team lead · Thursday 12 November 2026**
 

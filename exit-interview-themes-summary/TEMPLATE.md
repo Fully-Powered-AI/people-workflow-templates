@@ -149,7 +149,7 @@ To confirm: [the proposed reason mapping / the default theme list / nothing].
 
 ## Acceptance tests
 
-Proposed tests. None has been run as a formal test. The trial on the invented example (published with the template) exercised tests 1, 5, 6, 7, 8, 9 and 10 in passing.
+Proposed tests. None has been run as a formal test. The trial on the example (published with the template) exercised tests 1, 5, 6, 7, 8, 9 and 10 in passing.
 
 1. **Ordinary quarter.** Ten leavers with an exit record across four teams, one team with five. Expected: every section filled; the team of five shown alone; the other three combined.
 2. **Too few.** Four in-scope leavers with an exit record and a smallest group of five. Expected: stops, says four, suggests a longer period; prepares nothing else.
@@ -295,4 +295,4 @@ password, login code or bank details found in the inputs.
 
 ## Version notes
 
-- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its invented example in Claude on 12 November 2026 in two runs; the record of the second is published with the template and was not independent of the first. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+- 0.1.0, 12 November 2026. Written by FullyPowered AI. Editorially reviewed. Tried on its example in Claude on 12 November 2026 in two runs; the record of the second is published with the template and was not independent of the first. Not yet tested in a client environment, and not yet tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.

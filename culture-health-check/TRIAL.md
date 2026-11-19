@@ -1,10 +1,10 @@
-# Culture health check: trying the template on its invented example
+# Culture health check: trying the template on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-This trial used only the invented example's inputs: the company, the people, the survey and every figure are made up, and no client data was used. The run was a single pass. The model that ran it did not write the template. It read the whole of `member/template.md`, including the procedure's anti-pattern list, and followed the instruction block and the output format on the eight inputs in `public/example.md` (settings, stated values, survey questions, the October survey export, the April survey export, exit notes, decision notes and recognition notes). It did not read the example's output until it had finished its own.
+This trial used only the example's inputs: the company, the people, the survey and every figure are made up, and no client data was used. The run was a single pass. The model that ran it did not write the template. It read the whole of `member/template.md`, including the procedure's anti-pattern list, and followed the instruction block and the output format on the eight inputs in `public/example.md` (settings, stated values, survey questions, the October survey export, the April survey export, exit notes, decision notes and recognition notes). It did not read the example's output until it had finished its own.
 
 **Edited after this run, 10 November 2026.** Following the independent review, the template and the published example were edited after the run recorded here, and the run was not repeated. The output and the observations below are left as recorded, so where they describe the template or the example they describe them as they were at the time of the run. What changed:
 

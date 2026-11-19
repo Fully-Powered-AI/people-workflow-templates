@@ -1,6 +1,6 @@
-# Site safety induction pack: an invented example
+# Site safety induction pack: an example
 
-*Illustrative example with invented data.* The company, the depot, the contractor, the agency, the people, the documents and every date below are invented. The company is an invented chilled-food distributor, called Company D here, with a depot of forty people. Three new starters begin on Monday 16 November 2026, and two refrigeration engineers from a contractor arrive on Wednesday 18 November to service the cold store. The depot operations manager runs the workflow template; the health and safety coordinator approves the pack and delivers the induction. Organisations are referred to by letter.
+*Illustrative example with sample data.* The company, the depot, the contractor, the agency, the people, the documents and every date below are illustrative. The company is an illustrative chilled-food distributor, called Company D here, with a depot of forty people. Three new starters begin on Monday 16 November 2026, and two refrigeration engineers from a contractor arrive on Wednesday 18 November to service the cold store. The depot operations manager runs the workflow template; the health and safety coordinator approves the pack and delivers the induction. Organisations are referred to by letter.
 
 First come the inputs the depot operations manager supplied, in full, then the pack the workflow template returned.
 

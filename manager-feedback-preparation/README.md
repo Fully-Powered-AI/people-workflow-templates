@@ -8,7 +8,7 @@ Every manager prepares for a feedback conversation with dated observations, ques
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/manager-feedback-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-manager-feedback-preparation&from=gh-people-manager-feedback-preparation)*
@@ -36,7 +36,7 @@ A one-page preparation: the responsibility in focus, the observations, the manag
 
 An observation that is vague, second-hand or missing an example goes back to the manager with a request for a better one. If the notes point to possible misconduct, a complaint, health, leave or a formal performance process, the preparation stops and the manager takes it to the people lead. It never produces a rating, a score or a recommendation on pay, promotion or employment.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -70,7 +70,7 @@ Testing in your environment means running it on real preparations against cases 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
 - [LICENSE](LICENSE): MIT. Use it, change it, make it yours.

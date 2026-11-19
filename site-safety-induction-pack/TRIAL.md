@@ -1,10 +1,10 @@
-# Site safety induction pack: tried on its invented example
+# Site safety induction pack: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in `public/example.md` (Company D, Depot 2, the five invented people and the four invented documents). No client data was used. The run followed the instruction block and the output format in the member template. The assistant that ran it did not write the template, and it read the example's returned pack only after producing its own.
+The inputs are the example in `public/example.md` (Company D, Depot 2, the five sample people and the four sample documents). No client data was used. The run followed the instruction block and the output format in the member template. The assistant that ran it did not write the template, and it read the example's returned pack only after producing its own.
 
 ## Edits made after this run, not run again
 

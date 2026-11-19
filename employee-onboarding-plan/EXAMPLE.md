@@ -1,6 +1,6 @@
-# Employee onboarding plan: an invented example
+# Employee onboarding plan: an example
 
-*Illustrative example with invented data.* An invented 120-person freight and warehousing company.
+*Illustrative example with sample data.* An illustrative 120-person freight and warehousing company.
 
 **Onboarding plan · Customer operations coordinator · Starts Monday 16 November 2026**
 

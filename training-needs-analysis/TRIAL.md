@@ -1,10 +1,10 @@
-# Training needs analysis: one run on its invented example
+# Training needs analysis: one run on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-10
 
-The inputs are the invented example in [`example.md`](example.md): the scope brief, the requirements list, the coverage list, the eight notes and the settings, as printed there. No client data was used.
+The inputs are the example in [`example.md`](example.md): the scope brief, the requirements list, the coverage list, the eight notes and the settings, as printed there. No client data was used.
 
 This is the third run. The first, on 9 November 2026 with Claude Sonnet 5.5, was done by an assistant that had not written the template; it matched the then-published example in every figure and found ambiguities that a review confirmed. Its output is not published. The template was revised after it (among other things: done-by dates taken from the scope brief or the notes, the pasted instructions given the rules the procedure already had, an absence named as a personal detail, a reason for a zero count accepted as evidence, a vendor's session treated as an outside course, and a question asking whether a course brings people to the level needed). A second run the same day, by the assistant that made those revisions, was recorded here and passed an independent review, which raised minor points. The template was revised again after that review: a start or leaving date is now a personal detail; a role of one or two people keeps Read by to the approver and the team manager, and its single-holder line carries no note; a new question asks whether the one person who can teach an in-house item has the time; Short is never more than Needed when there are more expiry dates than people at level; and the pasted instructions now carry the coverage-list definitions and the exception for a note left out entirely.
 
