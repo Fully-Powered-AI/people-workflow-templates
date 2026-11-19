@@ -1,10 +1,17 @@
 # Site safety induction pack
 
-For one named site, the site, facilities or people lead gets an induction built from that site's own emergency arrangements, rules and hazards, with a short check of understanding, a sign-off record for each person and refresher dates by role. A competent person approves it and delivers it.
+Get an induction built from your own site's emergency arrangements, rules and hazards, with a sign-off record. A competent person approves and delivers it.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/site-safety-induction-pack/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Site safety induction pack on our website](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/site-safety-induction-pack/?from=gh-people-site-safety-induction-pack)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/site-safety-induction-pack/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack)*
 
 ## The outcome
 
@@ -47,15 +54,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which keeps the signed records and makes sure nobody starts without an induction. [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/) plans the first ninety days in the role; this covers the safety induction on day one.
-- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/), where the competent person approves the content and runs the induction. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/) finds the hazards this pack teaches.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where site and facilities managers bring in people and contractors every month. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/) decides whether a contractor comes in at all; the induction follows.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where every plant has its own machines, alarms and no-go areas.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where agency workers start on short notice and forklifts share the floor with them.
-- [Construction](https://fullypowered.ai/industries/construction/), where each site has its own access routes, permits and assembly points.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where kitchens, cellars and plant rooms take new seasonal staff every year.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when a new site or a new shift brings in more people than anyone can induct from memory.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the induction is a talk given the same way for years, whatever the site has become.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), which keeps the signed records and makes sure nobody starts without an induction. [Employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) plans the first ninety days in the role; this covers the safety induction on day one.
+- [Health, safety and environment](https://fullypowered.ai/functions/health-safety-and-environment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where the competent person approves the content and runs the induction. [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) finds the hazards this pack teaches.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where site and facilities managers bring in people and contractors every month. [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) decides whether a contractor comes in at all; the induction follows.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where every plant has its own machines, alarms and no-go areas.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where agency workers start on short notice and forklifts share the floor with them.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where each site has its own access routes, permits and assembly points.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where kitchens, cellars and plant rooms take new seasonal staff every year.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), when a new site or a new shift brings in more people than anyone can induct from memory.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack), where the induction is a talk given the same way for years, whatever the site has become.
 
 ## What has to change for your company
 
@@ -72,7 +79,7 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried once on its invented example in Claude on 10 November 2026, and the record of that run is published with it. The record lists the points where the instructions were ambiguous and the edits made afterward, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a site your competent person knows well, plus hard cases written in advance, each with its expected result: a request for an induction for every site, an emergency plan that leaves out who takes the roll, a hazard controlled only by a sign, a risk assessment two years old, a people list with a renamed column, a health detail in the notes. The competent person checks every line against the site's documents before anyone relies on the pack. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a site your competent person knows well, plus hard cases written in advance, each with its expected result: a request for an induction for every site, an emergency plan that leaves out who takes the roll, a hazard controlled only by a sign, a risk assessment two years old, a people list with a renamed column, a health detail in the notes. The competent person checks every line against the site's documents before anyone relies on the pack. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -99,10 +106,10 @@ Testing in your environment means running it on a site your competent person kno
 
 ## Related workflow templates
 
-- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/)
-- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/)
+- [Workplace risk assessment](https://fullypowered.ai/workflows/workplace-risk-assessment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack)
+- [Contractor safety prequalification](https://fullypowered.ai/workflows/contractor-safety-prequalification/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack)
 - [Employee onboarding plan](../employee-onboarding-plan/)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-site-safety-induction-pack&from=gh-people-site-safety-induction-pack).

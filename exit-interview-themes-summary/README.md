@@ -1,10 +1,17 @@
 # Exit interview themes summary
 
-Each quarter or half-year, your HR lead sees what leavers said on the way out: themes with counts, unattributed quotes with identifying detail removed, set beside the reasons recorded at the time, and questions for leadership. Small groups are combined or withheld by a stated rule. It decides nothing about any person.
+What leavers said, grouped into themes with counts and anonymous quotes, set beside the reasons recorded at the time, with questions for leadership.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/exit-interview-themes-summary/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Exit interview themes summary on our website](https://fullypowered.ai/workflows/exit-interview-themes-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/exit-interview-themes-summary/?from=gh-people-exit-interview-themes-summary)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/exit-interview-themes-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary)*
 
 ## The outcome
 
@@ -38,24 +45,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which holds the exit notes and owes leavers their anonymity.
-- [Leadership](https://fullypowered.ai/functions/leadership/), which reads the themes and decides what the company looks at next.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where rotas and short-notice shift changes often sit behind a recorded "personal reasons".
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where people leave for progression and the firm wants to know whether it could have offered it.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where reorganisations and on-call rotas show up in exit conversations before they show up anywhere else.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where the leavers from one shift or line can be few enough that combining groups matters.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when leaving rises with headcount and leadership needs the reasons, not just the number.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where years of recorded leaving reasons have never been set beside what leavers said.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), which holds the exit notes and owes leavers their anonymity.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), which reads the themes and decides what the company looks at next.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), where rotas and short-notice shift changes often sit behind a recorded "personal reasons".
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), where people leave for progression and the firm wants to know whether it could have offered it.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), where reorganisations and on-call rotas show up in exit conversations before they show up anywhere else.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), where the leavers from one shift or line can be few enough that combining groups matters.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), when leaving rises with headcount and leadership needs the reasons, not just the number.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), where years of recorded leaving reasons have never been set beside what leavers said.
 
 ## What has to change for your company
 
-Set the smallest group you will show; five is a careful floor, and a company where everyone knows who left a team of six may want more. Supply your own theme list and map your recorded reasons to it once, so every period reads the same way. Decide which kinds of leaving the summary covers; it covers resignations by default. Ask whoever holds exit conversations to put the leaver's own words in quotation marks, because only those are ever quoted. Agree who sees the HR-only note, how a matter raised in it is followed up under your own procedure, and who in leadership receives the approved summary. The handover, access and equipment for each leaver run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/), and what a leaver knows is captured with [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/). It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your HR system, and never asks for a password or a login code.
+Set the smallest group you will show; five is a careful floor, and a company where everyone knows who left a team of six may want more. Supply your own theme list and map your recorded reasons to it once, so every period reads the same way. Decide which kinds of leaving the summary covers; it covers resignations by default. Ask whoever holds exit conversations to put the leaver's own words in quotation marks, because only those are ever quoted. Agree who sees the HR-only note, how a matter raised in it is followed up under your own procedure, and who in leadership receives the approved summary. The handover, access and equipment for each leaver run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary), and what a leaver knows is captured with [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary). It runs in ChatGPT, Claude, Copilot or Gemini from the files you supply, with no connection to your HR system, and never asks for a password or a login code.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 12 November 2026. It was tried on its invented example in Claude on 12 November 2026 in two runs; the record of the second, made on the instructions as revised after the first and repeated once more after a review, is published with it. The second run was not independent of the first: the same session made the edits and ran it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past period your HR lead already knows, with hard cases written in advance: a team with two leavers, a quote that names a manager, a note that reports a complaint about conduct, a request to say who said something. The HR lead checks every count against the notes and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past period your HR lead already knows, with hard cases written in advance: a team with two leavers, a quote that names a manager, a note that reports a complaint about conduct, a request to say who said something. The HR lead checks every count against the notes and every quote against its source before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -88,4 +95,4 @@ Testing in your environment means running it on a past period your HR lead alrea
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-exit-interview-themes-summary&from=gh-people-exit-interview-themes-summary).

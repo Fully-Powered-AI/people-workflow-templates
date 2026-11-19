@@ -1,10 +1,17 @@
 # Headcount plan
 
-For a founder, people lead or finance lead preparing next year: every role and its cost by team, the new roles and backfills with their months, the fully loaded cost month by month against the budget, and what changes if revenue lands lower or higher. It plans roles and money, never decisions about named people.
+Get every role and its cost by team, new roles and backfills by month, and cost against budget in three cases. The approver decides.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/headcount-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Headcount plan on our website](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/headcount-plan/?from=gh-people-headcount-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/headcount-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan)*
 
 ## The outcome
 
@@ -36,25 +43,25 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which owns the roles, the pay review and the plan for who the company needs next.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/), which owns the budget and the cost rates the plan is built on.
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the chief executive decides which roles the company can afford, and when.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where people are most of the cost and every hire is a bet on revenue.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the team is what clients pay for and hiring ahead of work costs real money.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agencies staff up for accounts that can grow or go.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), when the next round depends on a hiring plan the numbers support.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the company adds roles faster than anyone can keep the total in their head.
-- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/), where owners want the people plan tied to the budget and to revenue.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), which owns the roles, the pay review and the plan for who the company needs next.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), which owns the budget and the cost rates the plan is built on.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), where the chief executive decides which roles the company can afford, and when.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), where people are most of the cost and every hire is a bet on revenue.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), where the team is what clients pay for and hiring ahead of work costs real money.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), where agencies staff up for accounts that can grow or go.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), when the next round depends on a hiring plan the numbers support.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), when the company adds roles faster than anyone can keep the total in their head.
+- [Private equity & portfolios](https://fullypowered.ai/situations/private-equity-and-portfolios/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan), where owners want the people plan tied to the budget and to revenue.
 
 ## What has to change for your company
 
-Settle the cost rates with your finance lead: the rate for employer taxes, benefits and pension, whether it applies to bonuses, what the per-person monthly cost covers and whether contractors carry it. Decide what "lower" and "higher" revenue mean for you and which changes each team lead may mark as able to wait. Set how far a new role's pay may sit from the role's current average before the plan asks about it, and how close the plan must come to last month's accounts. Choose who approves and who may read the plan, since a role held by one person shows that person's pay. Once a role is approved, the [job description](https://fullypowered.ai/workflows/job-description/) workflow template takes it forward; the [budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/) follows the plan through the year. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to payroll or your accounts.
+Settle the cost rates with your finance lead: the rate for employer taxes, benefits and pension, whether it applies to bonuses, what the per-person monthly cost covers and whether contractors carry it. Decide what "lower" and "higher" revenue mean for you and which changes each team lead may mark as able to wait. Set how far a new role's pay may sit from the role's current average before the plan asks about it, and how close the plan must come to last month's accounts. Choose who approves and who may read the plan, since a role held by one person shows that person's pay. Once a role is approved, the [job description](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan) workflow template takes it forward; the [budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan) follows the plan through the year. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to payroll or your accounts.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on last year's plan, which your finance lead already knows, plus hard cases written in advance, each with its expected behavior: a backfill that overlaps the departure, a missing cost rate, a renamed column, a lower case that is still over budget, a request to say who should leave. The finance lead checks every figure against payroll and the accounts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on last year's plan, which your finance lead already knows, plus hard cases written in advance, each with its expected behavior: a backfill that overlaps the departure, a missing cost rate, a renamed column, a lower case that is still over budget, a request to say who should leave. The finance lead checks every figure against payroll and the accounts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,10 +88,10 @@ Testing in your environment means running it on last year's plan, which your fin
 
 ## Related workflow templates
 
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
-- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/)
-- [Job description](https://fullypowered.ai/workflows/job-description/)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan)
+- [Thirteen-week cash flow forecast](https://fullypowered.ai/workflows/thirteen-week-cash-flow-forecast/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan)
+- [Job description](https://fullypowered.ai/workflows/job-description/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-headcount-plan&from=gh-people-headcount-plan).

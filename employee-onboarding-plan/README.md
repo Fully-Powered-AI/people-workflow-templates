@@ -1,10 +1,17 @@
 # Employee onboarding plan
 
-Every new colleague starts with a first week and a first 90 days planned to the standard of your best manager: what to read, who to meet, what to practice and what productive means at day 30, 60 and 90.
+A first week and a first 90 days planned for each new colleague: what to read, who to meet and what productive means. The hiring manager adapts it.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-onboarding-plan/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Employee onboarding plan on our website](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/employee-onboarding-plan/?from=gh-people-employee-onboarding-plan)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan)*
 
 ## The outcome
 
@@ -36,17 +43,17 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/): shifts, several sites and procedure-heavy roles.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/): safety induction and supervised practice need a sequence and an owner.
-- [Professional services](https://fullypowered.ai/industries/professional-services/): the day-30 expectation must be explicit when time is billed.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/): one standard, set by the people lead, for every hiring manager.
-- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/): the agreed role brief becomes the plan’s starting point.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/): ten managers hiring at once, every start planned with the same care.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/): a joined team learns new systems on one plan.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): shifts, several sites and procedure-heavy roles.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): safety induction and supervised practice need a sequence and an owner.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): the day-30 expectation must be explicit when time is billed.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): one standard, set by the people lead, for every hiring manager.
+- [Recruiting and hiring](https://fullypowered.ai/functions/recruiting-and-hiring/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): the agreed role brief becomes the plan’s starting point.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): ten managers hiring at once, every start planned with the same care.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan): a joined team learns new systems on one plan.
 
 ## What has to change for your company
 
-Set the standard first: the check-in rhythm, the age limit for training material, the training every start completes and how productive is written for your roles. Training material usually covers the routine case; capture the exceptions experienced colleagues handle with [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/).
+Set the standard first: the check-in rhythm, the age limit for training material, the training every start completes and how productive is written for your roles. Training material usually covers the routine case; capture the exceptions experienced colleagues handle with [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan).
 
 Map the handoffs to IT, facilities and the buddy so every confirmation has an owner. Prove it on one real start, then roll it out. FullyPowered works across ChatGPT, Claude, Copilot and Gemini, at your pace, and your company keeps control of how the work gets done.
 
@@ -54,7 +61,7 @@ Map the handoffs to IT, facilities and the buddy so every confirmation has an ow
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on your roles and training material against cases written in advance, such as a responsibility with no training or an unconfirmed start date. The hiring manager and the people lead judge each draft against the expected behavior. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on your roles and training material against cases written in advance, such as a responsibility with no training or an unconfirmed start date. The hiring manager and the people lead judge each draft against the expected behavior. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -81,8 +88,8 @@ Testing in your environment means running it on your roles and training material
 ## Related workflow templates
 
 - [Manager feedback preparation](../manager-feedback-preparation/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan).

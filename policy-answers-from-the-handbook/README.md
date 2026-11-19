@@ -1,10 +1,17 @@
 # Policy answers from the handbook
 
-Staff questions about leave, hours, expenses and conduct get answers that quote your own handbook, name the section, and say plainly where the handbook is silent. Anything about one person's own entitlement goes to HR, and no reply leaves until a person has read it.
+Staff questions answered by quoting your own handbook, with the section named and silences stated. A person reads every reply before it leaves.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Policy answers from the handbook on our website](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/?from=gh-policy-answers-from-the-handbook)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/policy-answers-from-the-handbook/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook)*
 
 ## The outcome
 
@@ -34,13 +41,13 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which owns the handbook and decides every case it does not settle.
-- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/), where the office manager is often the first person staff ask.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where depot and office staff work under different sections of the same handbook.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where shift, overtime and safety rules differ by site and by role.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where part-time and seasonal staff ask about rules often written for full-time staff.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where expenses, travel and working from home generate most of the questions.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the handbook has grown over years and memos have piled up beside it.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), which owns the handbook and decides every case it does not settle.
+- [Executive and office support](https://fullypowered.ai/functions/executive-and-office-support/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where the office manager is often the first person staff ask.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where depot and office staff work under different sections of the same handbook.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where shift, overtime and safety rules differ by site and by role.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where part-time and seasonal staff ask about rules often written for full-time staff.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where expenses, travel and working from home generate most of the questions.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook), where the handbook has grown over years and memos have piled up beside it.
 
 ## What has to change for your company
 
@@ -50,7 +57,7 @@ Name your HR contact and agree which topics always go to them; the template star
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026, and the record of that run is published with the template; it lists the edits made afterward, which have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a few weeks of past questions your HR contact has already answered, plus hard cases written in advance, each with the expected result: a rule written for full-time staff asked about by a part-time employee, a memo that clashes with the handbook, a question about one person's own leave, a concern about a manager, an export with the wrong headings. The HR contact compares every answer with what they would have said before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a few weeks of past questions your HR contact has already answered, plus hard cases written in advance, each with the expected result: a rule written for full-time staff asked about by a part-time employee, a memo that clashes with the handbook, a question about one person's own leave, a concern about a manager, an export with the wrong headings. The HR contact compares every answer with what they would have said before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -79,8 +86,8 @@ Testing in your environment means running it on a few weeks of past questions yo
 
 - [Employee onboarding plan](../employee-onboarding-plan/)
 - [Manager feedback preparation](../manager-feedback-preparation/)
-- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/)
+- [Customer reply drafting](https://fullypowered.ai/workflows/customer-reply-drafting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-policy-answers-from-the-handbook&from=gh-policy-answers-from-the-handbook).

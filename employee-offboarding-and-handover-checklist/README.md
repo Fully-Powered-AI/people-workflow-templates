@@ -1,10 +1,17 @@
 # Employee offboarding and handover checklist
 
-When someone leaves, your HR lead and their manager share one checklist: every piece of their work handed to a named colleague before the last day, every system on your access register removed by its owner at a set time, and every item of equipment back. Nothing is removed or sent without a person.
+One checklist for a departure: work handed to named colleagues, access removed by its owner, equipment back. Nothing is sent or removed without a person.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Employee offboarding and handover checklist on our website](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?from=gh-employee-offboarding-and-handover-che)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che)*
 
 ## The outcome
 
@@ -37,22 +44,22 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which owns the departure and approves the checklist.
-- [IT and systems](https://fullypowered.ai/functions/it-and-systems/), which removes access, sets mail forwarding and wipes returned devices on the agreed day.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client relationships and recurring reports sit with one person and must pass to another before they go.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where one person can reach dozens of systems, some with admin rights.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where passes, keys and site equipment come back as well as laptops.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long-serving people hold work and access that nobody has written down.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), which owns the departure and approves the checklist.
+- [IT and systems](https://fullypowered.ai/functions/it-and-systems/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), which removes access, sets mail forwarding and wipes returned devices on the agreed day.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), where client relationships and recurring reports sit with one person and must pass to another before they go.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), where one person can reach dozens of systems, some with admin rights.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), where passes, keys and site equipment come back as well as laptops.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), where long-serving people hold work and access that nobody has written down.
 
 ## What has to change for your company
 
-Start from your own access register and equipment list; the workflow template adds no systems of its own, and every system missing from the register comes back as a question for the IT lead. Set your standard once: how many working days before the last day the handover is due, when access comes off, who receives mail and returned equipment. Decide who answers which kind of question. What the departing colleague knows that no document holds is worth capturing properly; [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) records how they handle the awkward cases. It is the companion to the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/), and runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no connection to your systems.
+Start from your own access register and equipment list; the workflow template adds no systems of its own, and every system missing from the register comes back as a question for the IT lead. Set your standard once: how many working days before the last day the handover is due, when access comes off, who receives mail and returned equipment. Decide who answers which kind of question. What the departing colleague knows that no document holds is worth capturing properly; [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che) records how they handle the awkward cases. It is the companion to the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che), and runs in ChatGPT, Claude, Copilot or Gemini from files and notes you supply, with no connection to your systems.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past departures your HR lead remembers well, plus hard cases written in advance, each with its expected behavior: a register with a renamed column, a shared login with no owner, a laptop kept at home, a hand-over date after the last day. The HR lead and the IT lead check every line against the register before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past departures your HR lead remembers well, plus hard cases written in advance, each with its expected behavior: a register with a renamed column, a shared login with no owner, a laptop kept at home, a hand-over date after the last day. The HR lead and the IT lead check every line against the register before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on two or three past departures you
 ## Related workflow templates
 
 - [Employee onboarding plan](../employee-onboarding-plan/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-offboarding-and-handover-checklist&from=gh-employee-offboarding-and-handover-che).

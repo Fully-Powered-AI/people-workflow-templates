@@ -1,10 +1,17 @@
 # Internal change announcement
 
-One decided change, announced well: managers briefed first, a message for each group in the right order, talking points, and the questions people will ask, answered only from the decision or marked open. Every message is a draft that a person approves and sends.
+Announce one decided change in order: managers briefed first, a message for each group, talking points and answers. A person approves and sends.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/internal-change-announcement/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Internal change announcement on our website](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/internal-change-announcement/?from=gh-people-internal-change-announcement)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/internal-change-announcement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement)*
 
 ## The outcome
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which looks after how staff hear about changes to their work and owns every announcement about a person's employment.
-- [Leadership](https://fullypowered.ai/functions/leadership/), where the person who decided puts their own name on the change and answers for it.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where a change to how stock is kept or ordered lands differently at the depot, the counter and the office.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where shifts, sites and the office each need their own version of the same change.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where a new system or process reaches partners, fee earners and support staff on different days.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where tools and team structures change often and a single post in a chat channel is tempting.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two companies' teams move onto one way of working.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the company outgrows the habits that worked at twenty people and has to tell everyone what replaces them.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), which looks after how staff hear about changes to their work and owns every announcement about a person's employment.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), where the person who decided puts their own name on the change and answers for it.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), where a change to how stock is kept or ordered lands differently at the depot, the counter and the office.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), where shifts, sites and the office each need their own version of the same change.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), where a new system or process reaches partners, fee earners and support staff on different days.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), where tools and team structures change often and a single post in a chat channel is tempting.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), when two companies' teams move onto one way of working.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement), when the company outgrows the habits that worked at twenty people and has to tell everyone what replaces them.
 
 ## What has to change for your company
 
@@ -61,7 +68,7 @@ Decide how far ahead managers hear and when the reminder and the check-in go out
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 10 November 2026, and the record of that run is published with the template. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on two or three past changes your team remembers well, plus hard cases written in advance, each with the result you expect: a brief with no decision owner, a group rated routine whose work clearly changes, a question the decision never answered, a brief that slips in a line about someone leaving. The person who decided reads every message against the facts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on two or three past changes your team remembers well, plus hard cases written in advance, each with the result you expect: a brief with no decision owner, a group rated routine whose work clearly changes, a question the decision never answered, a brief that slips in a line about someone leaving. The person who decided reads every message against the facts before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -89,9 +96,9 @@ Testing in your environment means running it on two or three past changes your t
 ## Related workflow templates
 
 - [Policy answers from the handbook](../policy-answers-from-the-handbook/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
-- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement)
+- [Meeting agenda, notes and follow-ups](https://fullypowered.ai/workflows/meeting-agenda-notes-and-follow-ups/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-internal-change-announcement&from=gh-people-internal-change-announcement).

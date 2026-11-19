@@ -1,10 +1,17 @@
 # Training needs analysis
 
-For one team, the HR lead or team manager gets what each role must be able to do, how many people can do it now, where the team falls short, and the training to arrange first, with who arranges it and by when. Counted by role, never a rating of a named person.
+For one team, see what each role must do, who can do it now, where the team falls short and what training to arrange first. Counted by role.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/training-needs-analysis/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Training needs analysis on our website](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/training-needs-analysis/?from=gh-people-training-needs-analysis)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/training-needs-analysis/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis)*
 
 ## The outcome
 
@@ -35,24 +42,24 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which holds the training budget and wants it spent where the gaps are.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where a new system or process changes what every role has to do.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where the team's know-how is what clients pay for.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where certificates, machines and single experts decide whether a shift can run.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where new systems, equipment tickets and seasonal staff keep the abilities a team needs moving.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where turnover is high and the same abilities have to be rebuilt in every new team.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when roles fill faster than anyone can teach them.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where one long-serving person often holds what the rest of the team cannot do.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), which holds the training budget and wants it spent where the gaps are.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where a new system or process changes what every role has to do.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where the team's know-how is what clients pay for.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where certificates, machines and single experts decide whether a shift can run.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where new systems, equipment tickets and seasonal staff keep the abilities a team needs moving.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where turnover is high and the same abilities have to be rebuilt in every new team.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), when roles fill faster than anyone can teach them.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis), where one long-serving person often holds what the rest of the team cannot do.
 
 ## What has to change for your company
 
-Set your level scale, or use the four steps it comes with. Decide your horizon date, usually the end of the training budget year, and how many days before a certificate expires the renewal must be done. Name who approves, who arranges outside courses and who arranges teaching inside the team. Decide what counts as evidence for each count, and who may read the analysis. A new starter's first weeks run on the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/); when one person holding an ability is leaving, [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/) keeps what they know. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your HR system.
+Set your level scale, or use the four steps it comes with. Decide your horizon date, usually the end of the training budget year, and how many days before a certificate expires the renewal must be done. Name who approves, who arranges outside courses and who arranges teaching inside the team. Decide what counts as evidence for each count, and who may read the analysis. A new starter's first weeks run on the [employee onboarding plan](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis); when one person holding an ability is leaving, [departing-employee knowledge capture](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis) keeps what they know. It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your HR system.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 and 10 November 2026 in three runs: the template was revised after the first, and again after an independent review of the second, and the record of the third is published with it. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a team your HR lead knows well, plus hard cases written in advance, each with its expected behavior: a certificate that lapses before the horizon, an ability one person holds, a note that blames a broken checklist, a renamed column, a request to say who is weakest. The HR lead checks every count against the coverage list before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a team your HR lead knows well, plus hard cases written in advance, each with its expected behavior: a certificate that lapses before the horizon, an ability one person holds, a note that blames a broken checklist, a renamed column, a request to say who is weakest. The HR lead checks every count against the coverage list before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -85,4 +92,4 @@ Testing in your environment means running it on a team your HR lead knows well, 
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-training-needs-analysis&from=gh-people-training-needs-analysis).

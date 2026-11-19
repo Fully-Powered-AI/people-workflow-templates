@@ -1,10 +1,17 @@
 # Culture health check
 
-A founder or people lead sees whether the company's stated values show up in daily work: each value written as behaviours you could watch for, read against the team's own evidence, with where practice matches, where it drifts, and two or three rituals to try. Reported by team and theme, never about a person.
+See whether your stated values show up in daily work, read against your own survey and exit evidence. Leadership decides what changes.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/culture-health-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Culture health check on our website](https://fullypowered.ai/workflows/culture-health-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/culture-health-check/?from=gh-people-culture-health-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/culture-health-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check)*
 
 ## The outcome
 
@@ -47,14 +54,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which runs the survey, keeps the exit notes and protects the anonymity of both.
-- [Leadership](https://fullypowered.ai/functions/leadership/), which owns the values and decides what the company changes because of them.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agency culture is part of what clients buy and a tired team shows in the work.
-- [Nonprofits](https://fullypowered.ai/industries/nonprofits/), where people join for the mission and leave when daily practice stops matching it.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where values are printed in every proposal and tested in every busy season.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where teams split and reorganise often and habits from the first twenty people linger.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when what everyone simply knew at fifteen people has to be made deliberate at sixty.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when two companies with two sets of values start working as one.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), which runs the survey, keeps the exit notes and protects the anonymity of both.
+- [Leadership](https://fullypowered.ai/functions/leadership/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), which owns the values and decides what the company changes because of them.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), where agency culture is part of what clients buy and a tired team shows in the work.
+- [Nonprofits](https://fullypowered.ai/industries/nonprofits/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), where people join for the mission and leave when daily practice stops matching it.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), where values are printed in every proposal and tested in every busy season.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), where teams split and reorganise often and habits from the first twenty people linger.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), when what everyone simply knew at fifteen people has to be made deliberate at sixty.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check), when two companies with two sets of values start working as one.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ Set the smallest group you will ever report; five is a careful floor and small, 
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 10 November 2026. It was tried on its invented example on 10 November 2026 in one run; the record is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past survey your leadership already discussed, with hard cases written in advance: a team of three, an exit note that names a manager, a theme raised by only one leaver, a request to say who answered. The people lead checks every share against the survey counts and every reading against its evidence before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past survey your leadership already discussed, with hard cases written in advance: a team of three, an exit note that names a manager, a theme raised by only one leaver, a request to say who answered. The people lead checks every share against the survey counts and every reading against its evidence before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -97,4 +104,4 @@ Testing in your environment means running it on a past survey your leadership al
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-culture-health-check&from=gh-people-culture-health-check).

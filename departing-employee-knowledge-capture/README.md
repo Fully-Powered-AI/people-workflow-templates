@@ -1,10 +1,17 @@
 # Departing-employee knowledge capture
 
-When someone is leaving or changing role, their manager gets an interview guide aimed at what only that person knows, then a handover document the successor can work from, every point traced to the conversations and marked with how sure it is. Nothing is shared until the manager approves.
+When someone leaves or changes role, the manager gets an interview guide and a handover document traced to the notes. Nothing is shared until approved.
 
-*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Departing-employee knowledge capture on our website](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?from=gh-departing-employee-knowledge-capture)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · People and HR · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/departing-employee-knowledge-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture)*
 
 ## The outcome
 
@@ -36,23 +43,23 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/), which sees every departure and wants the know-how to stay.
-- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/), where unwritten practice is what keeps the work running.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client relationships and judgment sit with one senior person.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where long-serving people know the machines, the suppliers and the workarounds.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where cut-offs, carriers and supplier habits live in one buyer's head.
-- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/), where a project lead's knowledge of clients and past jobs has to pass on mid-project.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where people with long service hold what nobody has written down.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), which sees every departure and wants the know-how to stay.
+- [Operations and process improvement](https://fullypowered.ai/functions/operations-and-process-improvement/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where unwritten practice is what keeps the work running.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where client relationships and judgment sit with one senior person.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where long-serving people know the machines, the suppliers and the workarounds.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where cut-offs, carriers and supplier habits live in one buyer's head.
+- [Engineering firms](https://fullypowered.ai/industries/engineering-firms/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where a project lead's knowledge of clients and past jobs has to pass on mid-project.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture), where people with long service hold what nobody has written down.
 
 ## What has to change for your company
 
-Set your session length, how many areas a conversation covers, and when the conversations and the check must finish. Add the questions your best managers already ask, and keep the one on ideas tried and dropped. Decide whether conversations may be recorded, where notes and the approved document are kept, and who may read them. Access, equipment and the hand-over of each piece of work run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/). When one procedure turns out to be mostly exceptions, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/) writes them down properly, and when a whole team's know-how needs capturing, that is the work of [FullyPowered Studio](https://fullypowered.ai/fully-powered-studio/). It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your systems.
+Set your session length, how many areas a conversation covers, and when the conversations and the check must finish. Add the questions your best managers already ask, and keep the one on ideas tried and dropped. Decide whether conversations may be recorded, where notes and the approved document are kept, and who may read them. Access, equipment and the hand-over of each piece of work run on the [employee offboarding and handover checklist](https://fullypowered.ai/workflows/employee-offboarding-and-handover-checklist/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture). When one procedure turns out to be mostly exceptions, [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture) writes them down properly, and when a whole team's know-how needs capturing, that is the work of [FullyPowered Studio](https://fullypowered.ai/fully-powered-studio/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture). It runs in ChatGPT, Claude, Copilot or Gemini from the lists and notes you supply, with no connection to your systems.
 
 ## What has been checked
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 9 November 2026. It was tried on its invented example in Claude on 9 November 2026; the record of that run is published with it, and lists the small edits made afterward that have not been run again. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your environment means running it on a past departure your manager remembers well, plus hard cases written in advance, each with its expected behavior: a blank where "others who know it" should be, a list with a renamed column, steps kept only in someone's own mailbox, a colleague who does the work differently. The manager checks every point against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your environment means running it on a past departure your manager remembers well, plus hard cases written in advance, each with its expected behavior: a blank where "others who know it" should be, a list with a renamed column, steps kept only in someone's own mailbox, a colleague who does the work differently. The manager checks every point against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -80,9 +87,9 @@ Testing in your environment means running it on a past departure your manager re
 ## Related workflow templates
 
 - [Employee offboarding and handover checklist](../employee-offboarding-and-handover-checklist/)
-- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/)
-- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/)
+- [SOP exception capture](https://fullypowered.ai/workflows/sop-exception-capture/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture)
+- [Write an SOP from how the work is done](https://fullypowered.ai/workflows/sop-from-how-the-work-is-done/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-departing-employee-knowledge-capture&from=gh-departing-employee-knowledge-capture).
