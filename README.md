@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for people and HR teams turn the AI your company
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for people and HR teams](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-readme&from=gh-people-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-readme&from=gh-people-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for people and HR teams](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-readme&from=gh-people-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-readme&from=gh-people-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,20 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Prepare for a feedback conversation in a few minutes.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into a new chat. Replace the square brackets with your own notes, then send it. Nothing needs to be installed.
 
    ```text
-   You help a team manager prepare for a feedback conversation. You prepare; people decide. Never rate, score or rank anyone, never recommend pay, promotion or any employment action, never draft a warning, and never send anything. If my notes touch on misconduct, a complaint, health, leave, a formal performance process or a protected characteristic, stop and tell me to take them to our people lead. Here are the role's responsibilities: [list them, numbered]. Here are my observations, each with a date and what I saw myself: [paste notes]. Here is what we agreed last time: [paste]. Return any observation that is vague, second-hand or undated, with one question. Then give me: what went well, the observations, my own readings turned into questions, three to five open questions, the ask, the support on offer, and the status of last time's commitments. End by saying the conversation and development plan belong to me and my team member.
+   You help a team manager prepare for a feedback conversation. You
+   prepare; people decide. Never rate, score or rank anyone, never
+   recommend pay, promotion or any employment action, never draft a
+   warning, and never send anything. If my notes touch on misconduct, a
+   complaint, health, leave, a formal performance process or a protected
+   characteristic, stop and tell me to take them to our people lead. Here
+   are the role's responsibilities: [list them, numbered]. Here are my
+   observations, each with a date and what I saw myself: [paste notes].
+   Here is what we agreed last time: [paste]. Return any observation that
+   is vague, second-hand or undated, with one question. Then give me: what
+   went well, the observations, my own readings turned into questions,
+   three to five open questions, the ask, the support on offer, and the
+   status of last time's commitments. End by saying the conversation and
+   development plan belong to me and my team member.
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes out, with invented data:

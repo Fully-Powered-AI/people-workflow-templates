@@ -3,7 +3,7 @@
 A first week and a first 90 days planned for each new colleague: what to read, who to meet and what productive means. The hiring manager adapts it.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Employee onboarding plan on our website](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Employee onboarding plan on our website](https://fullypowered.ai/workflows/employee-onboarding-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=people-employee-onboarding-plan&from=gh-people-employee-onboarding-plan). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
